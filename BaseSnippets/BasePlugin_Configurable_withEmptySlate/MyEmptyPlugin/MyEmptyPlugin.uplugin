@@ -1,0 +1,15 @@
+{
+  "FileVersion": 1,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "MyEmptyPlugin",
+  "Description": "MyEmptyPlugin's info.",
+  "Category": "Utility",
+  "Modules": [
+    {
+      "Name": "MyEmptyPlugin",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
